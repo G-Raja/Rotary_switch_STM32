@@ -1,0 +1,1 @@
+# Rotary_switch_STM32
